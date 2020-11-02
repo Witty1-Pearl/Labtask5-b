@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\CodebitsAcademy\C#\LabTask5-b\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.genruntimeconfig.cache

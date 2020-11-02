@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\bin\Debug\netcoreapp3.1\SavingsAccountTest.exe
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\bin\Debug\netcoreapp3.1\SavingsAccountTest.deps.json
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\bin\Debug\netcoreapp3.1\SavingsAccountTest.runtimeconfig.json
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\bin\Debug\netcoreapp3.1\SavingsAccountTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\bin\Debug\netcoreapp3.1\SavingsAccountTest.dll
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\bin\Debug\netcoreapp3.1\SavingsAccountTest.pdb
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.dll
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.pdb
+C:\CodebitsAcademy\C#\LabTask5-b\SavingsAccountTest\obj\Debug\netcoreapp3.1\SavingsAccountTest.genruntimeconfig.cache

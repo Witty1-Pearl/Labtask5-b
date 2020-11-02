@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.exe
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.deps.json
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.json
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.dll
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.dll
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\CodebitsAcademy\C#\LabTask5-b\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.genruntimeconfig.cache
